@@ -1,0 +1,33 @@
+Step	Int Number	1	2	3	4	5
+Duration_Time(s)	Int Number	2	30	2	33	2
+SryingePump_On/Off	Boolean (0: False, 1: True)	0	0	0	0	0
+SryingePump_Diameter	8.95mm,3cc; 13.0mm,5cc; 15.8mm, 10cc; 13.30mm,5cc	1	1	1	1	1
+SryingePump_InfusionRate	Int Number (ul/min)	0	0	0	0	0
+SryingePump_WithdrawalRate	Int Number (ul/min)	0	0	0	0	0
+SryingePump_Direction	Boolean (0: False, 1: True)	0	0	0	0	0
+SelectionValve	0: No Action; 1-6: Position	1	1	1	1	1
+BufferPinchValve_BufferLoadL	Boolean (0: False, 1: True)	0	0	0	0	0
+BufferPinchValve_BufferLoadR	Boolean (0: False, 1: True)	1	1	0	1	0
+BufferPinchValve_BufferChipL	Boolean (0: False, 1: True)	0	0	0	0	0
+BufferPinchValve_BufferChipR	Boolean (0: False, 1: True)	0	0	0	0	0
+BufferPinchValve_SortingWaste	Boolean (0: False, 1: True)	0	0	0	0	0
+BufferPinchValve_FilterWaste	Boolean (0: False, 1: True)	0	0	0	0	0
+BufferPinchValve_ReagentWaste	Boolean (0: False, 1: True)	0	0	0	0	0
+BufferPinchValve_BufferWaste	Boolean (0: False, 1: True)	0	0	0	1	0
+BufferPinchValve_Water/Buffer	Boolean (0: False, 1: True)	1	1	1	1	1
+BloodPinchValve_LoadS1	Boolean (0: False, 1: True)	0	0	0	0	0
+BloodPinchValve_LoadS2	Boolean (0: False, 1: True)	0	0	0	0	0
+BloodPinchValve_Bloodin	Boolean (0: False, 1: True)	0	0	0	0	0
+Regulator_BL1(AirValve)	Int Number_mV	0	0	0	5000	0
+Regulator_BL2	Int Number_mV	0	0	0	5000	0
+Regulator_BR1	Int Number_mV	0	0	0	5000	0
+Regulator_BR2	Int Number_mV	0	0	0	5000	0
+FastValve_AutoFastValve	Boolean (0: False, 1: True)	0	0	0	0	0
+FastValve_FastValve1	Boolean (0: False, 1: True)	0	0	0	0	0
+FastValve_FastValve2	Boolean (0: False, 1: True)	0	0	0	0	0
+AirValve	Boolean (0: False, 1: True)	0	0	0	0	0
+BloodTubeLatch	Boolean (0: False, 1: True)	0	0	0	0	0
+BufferPump	Boolean (0: False, 1: True)	0	1	0	0	0
+BloodSensorCalibration1	Boolean (0: False, 1: True)	0	0	0	0	0
+BloodSensorCalibration2	Boolean (0: False, 1: True)	0	0	0	0	0
+MirrorChange	0: Camera Side; 1: SiPM Side	0	0	0	0	0
