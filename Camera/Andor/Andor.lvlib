@@ -29,6 +29,7 @@
 	</Item>
 	<Item Name="SubVI" Type="Folder">
 		<Item Name="Overlay.vi" Type="VI" URL="../SubVI/Overlay.vi"/>
+		<Item Name="seletion.ctl" Type="VI" URL="../SubVI/seletion.ctl"/>
 		<Item Name="zyla ap.vi" Type="VI" URL="../SubVI/zyla ap.vi"/>
 	</Item>
 	<Item Name="Overlay Disable.vi" Type="VI" URL="../Queue API/Overlay Disable.vi"/>
